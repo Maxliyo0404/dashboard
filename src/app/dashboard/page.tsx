@@ -24,7 +24,7 @@ export default function DashboardPage() {
       <div className="p-6 bg-white border border-gray-200 rounded-lg shadow">
         <h2 className="text-xl font-semibold mb-4">So'nggi harakatlar</h2>
         <p className="text-gray-600">
-          Bu yerda siz ma'lumotlar ro'yxatini yoki grafikni ko'rsatishingiz mumkin.
+    
         </p>
       </div>
     </div>
