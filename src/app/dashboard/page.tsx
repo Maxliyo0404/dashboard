@@ -23,9 +23,7 @@ export default function DashboardPage() {
       {/* Asosiy qism */}
       <div className="p-6 bg-white border border-gray-200 rounded-lg shadow">
         <h2 className="text-xl font-semibold mb-4">So'nggi harakatlar</h2>
-        <p className="text-gray-600">
-    
-        </p>
+        <p className="text-gray-600"></p>
       </div>
     </div>
   );
