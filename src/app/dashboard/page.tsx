@@ -1,6 +1,6 @@
 export default function DashboardPage() {
   return (
-    <div className="space-y-6 style max-2xl: bg-amber-100 flex items-center justify-between">
+    <div className="space-y-6 style max-2xl: bg-amber-100 flex items-center flex-col">
       {/* Sarlavha */}
       <h1 className="text-3xl font-bold text-gray-900">Dashboard</h1>
       
