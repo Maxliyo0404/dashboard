@@ -15,8 +15,6 @@ export default function DashboardLayout({
           </ul>
         </nav>
       </aside>
-
-      {/* Asosiy dashboard sahifalari shu yerda yuklanadi */}
       <main style={{ flex: 1, padding: '20px' }}>
         {children}
       </main>
